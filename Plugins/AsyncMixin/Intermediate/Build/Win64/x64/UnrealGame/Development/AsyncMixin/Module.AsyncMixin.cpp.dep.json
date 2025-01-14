@@ -1,0 +1,28 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "e:\\cys\\project\\ue5\\lyra\\plugins\\asyncmixin\\intermediate\\build\\win64\\x64\\unrealgame\\development\\asyncmixin\\module.asyncmixin.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\cys\\project\\ue5\\lyra\\intermediate\\build\\win64\\x64\\lyragame\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "e:\\cys\\project\\ue5\\lyra\\plugins\\asyncmixin\\intermediate\\build\\win64\\x64\\unrealgame\\development\\asyncmixin\\definitions.asyncmixin.h",
+            "e:\\cys\\project\\ue5\\lyra\\plugins\\asyncmixin\\source\\private\\asyncmixin.cpp",
+            "e:\\cys\\project\\ue5\\lyra\\plugins\\asyncmixin\\source\\public\\asyncmixin.h",
+            "d:\\program files\\epic games\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\engine\\assetmanager.h",
+            "d:\\program files\\epic games\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\engine\\assetmanagertypes.h",
+            "d:\\program files\\epic games\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\assetmanagertypes.generated.h",
+            "d:\\program files\\epic games\\ue_5.2\\engine\\source\\runtime\\coreuobject\\public\\misc\\assetregistryinterface.h",
+            "d:\\program files\\epic games\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\engine\\streamablemanager.h",
+            "d:\\program files\\epic games\\ue_5.2\\engine\\source\\runtime\\assetregistry\\public\\assetregistry\\assetregistrymodule.h",
+            "d:\\program files\\epic games\\ue_5.2\\engine\\source\\runtime\\assetregistry\\public\\assetregistry\\iassetregistry.h",
+            "d:\\program files\\epic games\\ue_5.2\\engine\\source\\runtime\\coreuobject\\public\\assetregistry\\arfilter.h",
+            "d:\\program files\\epic games\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\assetregistry\\uht\\iassetregistry.generated.h",
+            "d:\\program files\\epic games\\ue_5.2\\engine\\source\\runtime\\core\\public\\genericplatform\\genericplatformchunkinstall.h",
+            "d:\\program files\\epic games\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\engine\\contentencryptionconfig.h",
+            "d:\\program files\\epic games\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\assetmanager.generated.h",
+            "e:\\cys\\project\\ue5\\lyra\\plugins\\asyncmixin\\source\\private\\asyncmixinmodule.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
